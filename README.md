@@ -10,8 +10,8 @@ ALICE (A Large Ion Collider Experiment) is a specialized detector designed to st
 
 * **Proton-Proton (p-p) Collisions:** These collisions probe the basic building blocks of matter (quarks and gluons) and the strong force (Quantum Chromodynamics) under controlled settings.
 * **Heavy-Ion Collisions (Au-Au):** Collisions of heavy nuclei, like gold ions, create quark-gluon plasma (QGP), a phase of matter believed to exist microseconds after the Big Bang.
-* **Heavy-Ion Collisions (pb-pb)
-* **Heavy-Ion Collisions (p-pb)
+* **Heavy-Ion Collisions (pb-pb)**
+* **Heavy-Ion Collisions (p-pb)**
 
 **Simulation Steps**
 
